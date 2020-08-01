@@ -3,6 +3,8 @@ My name is Santiago Guada and I am a third-year Computer Engineering undergradua
 
 I'm a great believer that hard work pays off, that's why I'm always trying to improve and learn new things that help me achieve my goals.
 
+Here is a quick view of the projects I've been working on for the past few months. Please visit my [GitHub](https://github.com/sguadav) or [LinkedIn](https://www.linkedin.com/in/santiago-guada/) profile for more information about me!
+
 ### [Predicting Premier League Results](https://github.com/sguadav/Predicting_soccer_results)
 
 - Created a program that estimates the exact result of a soccer match, using the data from previous matches and some factors that might influence the game, with Supervised Learning and estimate the overall result of the match.
