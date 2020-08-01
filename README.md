@@ -1,10 +1,10 @@
 # Welcome to my Portfolio
 
-I am a third-year Computer Engineering undergraduate student at Purdue University from Venezuela with a great interest in Software Development, Data Science, and Machine Learning. I'm passionate about doing projects that challenge me and make me learn new concepts. I'm seeking an internship to apply and expand my knowledge to become a better professional.
+My name is Santiago Guada and I am a third-year Computer Engineering undergraduate student at Purdue University from Venezuela with a great interest in Software Development, Data Science, and Machine Learning. I'm passionate about doing projects that challenge me and make me learn new concepts. I'm seeking an internship to apply and expand my knowledge to become a better professional.
 
 I'm a great believer that hard work pays off, that's why I'm always trying to improve and learn new things that help me achieve my goals.
 
-### Predicting Premier League Results
+### [Predicting Premier League Results](https://github.com/sguadav/Predicting_soccer_results)
 
 - Created a program that estimates the exact result of a soccer match, using the data from previous matches and some factors that might influence the game, with Supervised Learning and estimate the overall result of the match.
 - Optimized the best model with Linear, Lasso, and Random Forest Regressors using GridsearchCV.
