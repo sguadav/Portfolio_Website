@@ -1,5 +1,4 @@
 # Welcome to my Portfolio
-
 My name is Santiago Guada and I am a third-year Computer Engineering undergraduate student at Purdue University from Venezuela with a great interest in Software Development, Data Science, and Machine Learning. I'm passionate about doing projects that challenge me and make me learn new concepts. I'm seeking an internship to apply and expand my knowledge to become a better professional.
 
 I'm a great believer that hard work pays off, that's why I'm always trying to improve and learn new things that help me achieve my goals.
