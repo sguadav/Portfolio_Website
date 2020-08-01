@@ -9,10 +9,10 @@ I'm a great believer that hard work pays off, that's why I'm always trying to im
 - Created a program that estimates the exact result of a soccer match, using the data from previous matches and some factors that might influence the game, with Supervised Learning and estimate the overall result of the match.
 - Optimized the best model with Linear, Lasso, and Random Forest Regressors using GridsearchCV.
 - Using the 2013 Premier League season, separated between train and test, the accuracy of the exact result was of 45% and the overall result of the match (win/draw/loss) was 95%.
-
+![ff](images/goals_freq_per_team.PNG)
 <p align="center">
   <img src='images/goals_freq_per_team.PNG' height=350 >
-  ![](images/goals_freq_per_team.PNG)
+  
 </p>
 
 ### [Automatic Attendance Tracking System with OpenCV](https://github.com/sguadav/Face_recognition)
