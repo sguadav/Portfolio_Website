@@ -12,6 +12,7 @@ I'm a great believer that hard work pays off, that's why I'm always trying to im
 
 <p align="center">
   <img src='images/goals_freq_per_team.PNG' height=350 >
+  ![](images/goals_freq_per_team.PNG)
 </p>
 
 ### [Automatic Attendance Tracking System with OpenCV](https://github.com/sguadav/Face_recognition)
