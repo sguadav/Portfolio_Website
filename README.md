@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Welcome to my Portfolio
 
-You can use the [editor on GitHub](https://github.com/sguadav/Portfolio_Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a third-year Computer Engineering undergraduate student at Purdue University from Venezuela with a great interest in Software Development, Data Science, and Machine Learning. I'm passionate about doing projects that challenge me and make me learn new concepts. I'm seeking an internship to apply and expand my knowledge to become a better professional.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a great believer that hard work pays off, that's why I'm always trying to improve and learn new things that help me achieve my goals.
 
-### Markdown
+### Predicting Premier League Results
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Created a program that estimates the exact result of a soccer match, using the data from previous matches and some factors that might influence the game, with Supervised Learning and estimate the overall result of the match.
+- Optimized the best model with Linear, Lasso, and Random Forest Regressors using GridsearchCV.
+- Using the 2013 Premier League season, separated between train and test, the accuracy of the exact result was of 45% and the overall result of the match (win/draw/loss) was 95%.
 
-```markdown
-Syntax highlighted code block
+image
 
-# Header 1
-## Header 2
-### Header 3
+### Automatic Attendance System 
+- Uses OpenCV to detect faces location on a webcam consistently
+- Compares a folder of JPG pictures to the Web Cam connected to the computer using face location and encoding
+- Analyzes whether the person in the Web Cam is in the folder of images
+- Counts the person's attendance when recognized by the program in a CSV file
 
-- Bulleted
-- List
+image
 
-1. Numbered
-2. List
+### Stock Market Interactive Portfolio
+- Interactive program that maintains a stock portfolio on a CSV file
+- Can explore other stocks, calculate the intrinsic value, and see the graph of the stock price and the MACD up-to-date
+- Performs financial analysis on individual stocks, showing the current earnings.
 
-**Bold** and _Italic_ and `Code` text
+image
 
-[Link](url) and ![Image](src)
-```
+### Important Words in Group of Texts
+- Program that uses the Term Frequency-Inverse Document Frequency (TF-IDF) numerical statistic analysis to find the 5 most distinctive words between a list of txt files.
+- Used to see how two files differenciate each other and have a summary in 5 words about it.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+images
 
-### Jekyll Themes
+### My Website
+- Created a Personal Website to promote myself using Django, HTML, and CSS
+- Currently not uploaded and with much text
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sguadav/Portfolio_Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+image
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
