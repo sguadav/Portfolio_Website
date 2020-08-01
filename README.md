@@ -11,10 +11,6 @@ I'm a great believer that hard work pays off, that's why I'm always trying to im
 - Using the 2013 Premier League season, separated between train and test, the accuracy of the exact result was of 45% and the overall result of the match (win/draw/loss) was 95%.
 
 ![ff](images/goals_freq_per_team.PNG)
-<p align="center">
-  <img src='images/goals_freq_per_team.PNG' height=350 >
-  
-</p>
 
 ### [Automatic Attendance Tracking System with OpenCV](https://github.com/sguadav/Face_recognition)
 - Uses OpenCV to detect faces location on a webcam consistently
@@ -22,35 +18,27 @@ I'm a great believer that hard work pays off, that's why I'm always trying to im
 - Analyzes whether the person in the Web Cam is in the folder of images
 - Counts the person's attendance when recognized by the program in a CSV file
 
-<p align="center">
-  <img src='images/face.PNG' height=250 >
-  <img src='images/csv.PNG' height=250 >
-</p>
+![](images/face.PNG)
+![](images/csv.PNG)
 
 ### [Stock Market Interactive Portfolio](https://github.com/sguadav/My_Stock_Portfolio)
 - Interactive program that maintains a stock portfolio on a CSV file
 - Can explore other stocks, calculate the intrinsic value, and see the graph of the stock price and the MACD up-to-date
 - Performs financial analysis on individual stocks, showing the current earnings.
 
-<p align="center">
-  <img src='images/stock_graph.PNG' height=250 >
-  <img src='images/stock_macd.PNG' height=250 >
-</p>
+![](images/stock_graph.PNG)
+![](images/stock_macd.PNG)
 
 ### [Important Words in Group of Texts](https://github.com/sguadav/Distinctive_Words_Docs)
 - Program that uses the Term Frequency-Inverse Document Frequency (TF-IDF) numerical statistic analysis to find the 5 most distinctive words between a list of txt files.
 - Used to see how two files differenciate each other and have a summary in 5 words about it.
 
-<p align="center">
-  <img src='images/distinct_results.PNG' height=300>
-</p>
+![](images/distinct_results.PNG)
 
 ### [My Website](https://github.com/sguadav/My_Website)
 - Created a Personal Website to promote myself using Django, HTML, and CSS
 - Currently not uploaded and with much text
 
-<p align="center">
-  <img src='images/myWebsite_pic.PNG' height=350 >
-</p>
+![](images/myWebsite_pic.PNG)
 
 
