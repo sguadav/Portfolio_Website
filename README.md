@@ -21,8 +21,8 @@ I'm a great believer that hard work pays off, that's why I'm always trying to im
 - Counts the person's attendance when recognized by the program in a CSV file
 
 <p align="center">
-  <img src='images/face.PNG' height=250 >
-  <img src='images/csv.PNG' height=250 >
+  <img src='images/face.PNG' width=250 >
+  <img src='images/csv.PNG' width=250 >
 </p>
 
 ### [Stock Market Interactive Portfolio](https://github.com/sguadav/My_Stock_Portfolio)
