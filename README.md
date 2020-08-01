@@ -10,7 +10,9 @@ I'm a great believer that hard work pays off, that's why I'm always trying to im
 - Optimized the best model with Linear, Lasso, and Random Forest Regressors using GridsearchCV.
 - Using the 2013 Premier League season, separated between train and test, the accuracy of the exact result was of 45% and the overall result of the match (win/draw/loss) was 95%.
 
-<img src='images/goals_freq_per_team.PNG' height=350 class="center">
+<p align="center">
+  <img src='images/goals_freq_per_team.PNG' height=350 class="center">
+</p>
 
 ### [Automatic Attendance Tracking System with OpenCV](https://github.com/sguadav/Face_recognition)
 - Uses OpenCV to detect faces location on a webcam consistently
