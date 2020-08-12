@@ -13,6 +13,15 @@ Here is a quick view of the projects I've been working on for the past few month
 
 ![ff](images/goals_freq_per_team.PNG)
 
+### [Customer Segmentation Analysis](https://github.com/sguadav/Customer_segmentation)
+
+- Created an unsupervised learning model using K-means algorithm to create a Customer Segmentation Analysis
+- Used elbow method to determine the optimal number of clusters for the data
+- Used Exploratory Data Analysis to understand the parameters of the data and which affected the Spending Score the most
+- Visualized the data using Matplotlib to get an idea of how the clusters were seen.
+
+![ff](images/clusters.PNG)
+
 ### [Automatic Attendance Tracking System with OpenCV](https://github.com/sguadav/Face_recognition)
 - Uses OpenCV to detect faces location on a webcam consistently
 - Compares a folder of JPG pictures to the Web Cam connected to the computer using face location and encoding
